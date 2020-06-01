@@ -3,7 +3,6 @@
 #include <iostream>
 #include <memory>
 #include <vector>
-#include "utils.h"
 #include "simple_bitarray.h"
 
 //the structure of Tanner Graph
